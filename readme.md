@@ -29,3 +29,11 @@ This project is a web application that allows users to register and manage their
 
    ```bash
    git clone https://github.com/mallsystems/cursor-interview.git
+   cd cursor-interview
+
+2. Create a new branch with your name:
+   
+   ##### Before making any changes, create a new branch using your name. This will help keep your work organized and prevent direct commits to the main branch.
+   
+   ```bash
+   git checkout -b your-name-branch
