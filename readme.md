@@ -4,9 +4,9 @@ This project is a web application that allows users to register and manage their
 ## Features
 
 - **Login & Profile Management:**
+  - Users can register an account.
   - Users can log in to the application.
   - Upon logging in, users are required to view their personal profile.
-  - Users can edit their personal profile using the provided "Edit" button within the profile view.
 
 - **Sign-Up:**
   - During sign-up, users are required to enter various details, including selecting their country and locality.
