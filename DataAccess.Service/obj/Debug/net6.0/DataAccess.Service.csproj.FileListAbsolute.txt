@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\cursor-interview\DataAccess.Service\bin\Debug\net6.0\DataAccess.Service.deps.json
+C:\Users\Admin\Desktop\cursor-interview\DataAccess.Service\bin\Debug\net6.0\DataAccess.Service.dll
+C:\Users\Admin\Desktop\cursor-interview\DataAccess.Service\bin\Debug\net6.0\DataAccess.Service.pdb
+C:\Users\Admin\Desktop\cursor-interview\DataAccess.Service\obj\Debug\net6.0\DataAccess.Service.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\cursor-interview\DataAccess.Service\obj\Debug\net6.0\DataAccess.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\cursor-interview\DataAccess.Service\obj\Debug\net6.0\DataAccess.Service.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\cursor-interview\DataAccess.Service\obj\Debug\net6.0\DataAccess.Service.AssemblyInfo.cs
+C:\Users\Admin\Desktop\cursor-interview\DataAccess.Service\obj\Debug\net6.0\DataAccess.Service.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\cursor-interview\DataAccess.Service\obj\Debug\net6.0\DataAccess.Service.sourcelink.json
+C:\Users\Admin\Desktop\cursor-interview\DataAccess.Service\obj\Debug\net6.0\DataAccess.Service.dll
+C:\Users\Admin\Desktop\cursor-interview\DataAccess.Service\obj\Debug\net6.0\refint\DataAccess.Service.dll
+C:\Users\Admin\Desktop\cursor-interview\DataAccess.Service\obj\Debug\net6.0\DataAccess.Service.pdb
+C:\Users\Admin\Desktop\cursor-interview\DataAccess.Service\obj\Debug\net6.0\ref\DataAccess.Service.dll

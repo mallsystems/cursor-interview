@@ -1,12 +1,241 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|c:\\users\\admin\\desktop\\cursor-interview\\api\\userservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|solutionrelative:userservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|c:\\users\\admin\\desktop\\cursor-interview\\api\\userservice\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|solutionrelative:userservice\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|c:\\users\\admin\\desktop\\cursor-interview\\api\\userservice\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|solutionrelative:userservice\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|c:\\users\\admin\\desktop\\cursor-interview\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|c:\\users\\admin\\desktop\\cursor-interview\\api\\userservice\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|solutionrelative:userservice\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|c:\\users\\admin\\desktop\\cursor-interview\\api\\userservice\\model\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|solutionrelative:userservice\\model\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|c:\\users\\admin\\desktop\\cursor-interview\\api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|c:\\users\\admin\\desktop\\cursor-interview\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|c:\\users\\admin\\desktop\\cursor-interview\\api\\userservice\\model\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|solutionrelative:userservice\\model\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|c:\\users\\admin\\desktop\\cursor-interview\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|c:\\users\\admin\\desktop\\cursor-interview\\api\\userservice\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|solutionrelative:userservice\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|c:\\users\\admin\\desktop\\cursor-interview\\api\\userservice\\model\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|solutionrelative:userservice\\model\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|c:\\users\\admin\\desktop\\cursor-interview\\api\\dbcontexts\\interviewdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A5DE2-39E2-40EF-8B2B-3BF1CF38426F}|API.csproj|solutionrelative:dbcontexts\\interviewdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\UserService\\Model\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\UserService\\Model\\LoginResponseDto.cs",
+              "RelativeToolTip": "UserService\\Model\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:19:56.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T08:11:11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:04:12.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\UserService\\Model\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\UserService\\Model\\UserLoginDto.cs",
+              "RelativeToolTip": "UserService\\Model\\UserLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:04:06.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\UserService\\Profiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "UserService\\Profiles\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\UserService\\Profiles\\UserProfile.cs",
+              "RelativeToolTip": "UserService\\Profiles\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:01:22.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T07:59:57.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\UserService\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\UserService\\Controller\\UserController.cs",
+              "RelativeToolTip": "UserService\\Controller\\UserController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvz0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:32:17.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\UserService\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserService\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\UserService\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "UserService\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:20:52.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\UserService\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "UserService\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\UserService\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "UserService\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:16:07.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\UserService\\Model\\UserDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\UserService\\Model\\UserDto.cs",
+              "RelativeToolTip": "UserService\\Model\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:19:36.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\UserService\\Model\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "UserService\\Model\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\UserService\\Model\\UserRegisterDto.cs",
+              "RelativeToolTip": "UserService\\Model\\UserRegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:19:34.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InterviewDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\DbContexts\\InterviewDBContext.cs",
+              "RelativeDocumentMoniker": "DbContexts\\InterviewDBContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\DbContexts\\InterviewDBContext.cs",
+              "RelativeToolTip": "DbContexts\\InterviewDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:58:47.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\cursor-interview\\API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:57:31.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
